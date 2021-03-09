@@ -1,0 +1,100 @@
+body {
+    text-align: left;
+    background: rgb(240, 198, 113);
+    box-shadow: 0 -15px 15px rgb(5, 31, 61),
+    inset 0 -15px 15px rgb(235, 189, 129), 0 15px 15px rgba(0, 0, 0, 0.3),
+    inset 0 15px 15px rgb(2, 14, 32);
+    
+    font-family: arial;
+    padding:125px;
+   margin:;
+    color: rgb (100, 210, 50);
+  }
+  
+  #header {
+    background: darkgreen;
+    font-family: poppin;
+    font-size: 20px;
+    color: white;
+    border: 20px inset darkgreen;
+   padding: 5px;
+    height: 5px;
+    width: 500px;
+    margin: ; 
+    word-spacing:px;
+       
+  }
+  #img {
+   position: fixed; 
+    top: 15px;
+    left: 50px;
+    
+     
+    
+  }
+  
+  .caption {
+    text-align: center;
+    font-family: poppin;
+    font-size: 25px;
+    margin: 25px;
+   padding:25px;
+    color: hsl(0, 50%, 15%);
+    
+  }
+  
+  .par-one {
+    font-family: ;
+    font-size: 15px;
+  background: ;
+    padding: 25px;
+    border: 10px dotted darkorange;
+    background: hsla(20, 100%, 45%, .1);
+  }
+  
+  .vid-one {
+     border: 15px inset darkgreen;
+    margin: 25px;
+    padding:25px;
+  }
+  
+  .vid-two {
+     border: 15px inset darkgreen;
+    margin: 50px;
+    padding:50px;
+  }
+  
+  .vid-three {
+     border: 15px inset darkgreen;
+    margin: 25px;
+    padding:100px;
+    
+  }
+  
+  .par-two {
+     font-family: ;
+    font-size: 15px;
+  background:;
+    padding: 15px;
+    border: 5px dashed darkorange;
+    background: hsla(20, 100%, 45%, .1);
+  }
+  
+  .copy {
+     font-size: 20px;
+    margin: 100px ;
+    padding: 15px;
+  background: darkgreen;
+    color: white;
+    border: 10px inset darkgreen;
+    text-align: right;
+  }
+
+  .music {
+
+      border: 5px inset rgb(9, 2, 51);
+     margin: 50px;
+     padding:25px;
+
+  }
+
